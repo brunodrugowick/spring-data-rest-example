@@ -1,1 +1,1 @@
-Example application to serve as a boilerplate and learning purposes. In fact I used to write a blog post for asolute beginners.
+Example application to serve as a boilerplate and learning purposes for Spring Data REST.
